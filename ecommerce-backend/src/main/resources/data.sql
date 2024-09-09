@@ -38,7 +38,7 @@ INSERT INTO products (title, price) VALUES
 ('Jeans', 49.99),
 ('Sneakers', 79.99),
 ('Backpack', 39.99),
-('Watch', 99.99);
+('Water Bottle', 99.99);
 
 -- Insert sample data into Orders table
 INSERT INTO orders (customer_id, total_price, created_at) VALUES
